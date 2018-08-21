@@ -1,0 +1,3 @@
+<?php
+
+$MESS['INTELDEV_GEOIP_NAME'] = 'GeoIP';
